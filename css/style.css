@@ -1,0 +1,8 @@
+h1{
+    font-size: max(48px, 4vw) !important;
+    font-weight: 500 !important;
+}
+
+.warning{
+    color: red;
+}
